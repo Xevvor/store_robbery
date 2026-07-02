@@ -43,7 +43,3 @@ Everything is handled in `config.lua`.
 - Default reward item is `black_money`
 - Clerks are spawned by the resource and cleaned up on resource stop
 - Cooldown is only applied after a successful payout
-
-## Credits
-
-- Built for the `ox_*` stack
