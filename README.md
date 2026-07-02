@@ -46,4 +46,4 @@ Everything is handled in `config.lua`.
 
 ## Gif
 
-![Store Robbery Preview](store_robbery.gif)
+![Store Robbery Preview](1_3DPt-LawPBZ6VY1MOsPBQQ.gif)
